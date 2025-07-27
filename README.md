@@ -39,7 +39,17 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaYelmakanne&theme=react-dark&hide_border=true&area=true" />
 </p>
+---
+### 📊 GitHub Performance Summary
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyaYelmakanne&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivyaYelmakanne&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivyaYelmakanne&theme=github_dark&utcOffset=5.5" />
+</p>
 ---
 
 ### 🌟 Fun Facts
