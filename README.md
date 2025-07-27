@@ -50,12 +50,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivyaYelmakanne&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivyaYelmakanne&theme=github_dark&utcOffset=5.5" />
 </p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DivyaYelmakanne&theme=dark&hide_border=false&border_radius=10&fire=orange&ring=purple&currStreakLabel=orange" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 🌟 Fun Facts
 - 🚗 I enjoy building things that solve real-world problems
+- ⚙️ I once built a mini project just for the thrill of debugging it
 - 🧩 I love working on AI-based tools and automation
 - 🔥 Always learning something new!
+- 🎧 I love listening and enjoying the music
+- 🚗 Travelling
+- 🌈 Fun & Adventurous
+- 🚗 I enjoy rides with good music
 
 ---
 
