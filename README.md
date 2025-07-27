@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Divya Yelmakanne</h1>
+<h3 align="center">AI Enthusiast | Developer | BE Student from India</h3>
 
-<!--
-**divyaYelmakanne/divyaYelmakanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Pursuing **Bachelor of Engineering**
+- 🤖 I love working on projects involving **AI tools** and real-world solutions
+- 💡 Building skills in **Machine Learning, Automation, and Web Development**
+- 🧠 Curious learner, Hackathon participant, and always open to collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills
+- 💻 **Languages:** Python, JavaScript, CSS, HTML
+- 🛠️ **Tools:** Git, GitHub, VS Code, ChatGPT, Vercel
+- 🤖 **AI/ML:** OpenCV, Pandas, scikit-learn, NumPy
+- 🌐 **Web Tech:** HTML, CSS, Tailwind, JavaScript, React (Basics)
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyaYelmakanne&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaYelmakanne&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaYelmakanne&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaYelmakanne&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌟 Fun Facts
+- 🚗 I enjoy building things that solve real-world problems
+- 🧩 I love working on AI-based tools and automation
+- 🔥 Always learning something new!
+
+---
+
+### 📬 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/divya-yelmakanne/)
+- 📫 Email: divyayelmakanne@gmail.com
+
+---
+
+*Feel free to connect, collaborate, or just say hi! 🚀*
+
