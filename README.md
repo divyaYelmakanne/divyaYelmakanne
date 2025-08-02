@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divya Yelmakanne</h1>
 <h3 align="center">AI Enthusiast | Developer | BE Student from India</h3>
 
+##Take a look on my Portfolio : https://build-folio-portfolio-divya.vercel.app/
+
 ---
 
 ### 👩‍💻 About Me
